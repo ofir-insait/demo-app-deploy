@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/ofir-insait/demo-app
-  newTag: b4bce48b58beca25c70c497af07d8255e593754a
+  newTag: 57b68e5bee52b9d3216f75b86c14e891070db061
