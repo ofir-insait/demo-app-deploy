@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/ofir-insait/demo-app
+  newTag: 83b2509c936366cf4c980cbeeea93bd45d65cd97
